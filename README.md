@@ -52,7 +52,7 @@ WeierstrassCurvePlot[iterations, primeModulus]
 
 Below is an example of the visualizations produced:
 
-- ![Example](examples/img_137.png)
+![Example](examples/img_137.png)
 
 ## Contributing
 
