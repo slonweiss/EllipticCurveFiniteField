@@ -8,7 +8,7 @@ This repository contains a collection of scripts and tools for visualizing ellip
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Examples](#examples)
+- [Example](#example)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -47,3 +47,17 @@ To generate a visualization, you can execute the provided scripts in Mathematica
 Get["path/to/Elliptic-Curve-Loopv2.wl"]
 WeierstrassCurvePlot[iterations, primeModulus]
 ```
+
+## Example
+
+Below is an example of the visualizations produced:
+
+- ![Example](examples/img_137.png)
+
+## Contributing
+
+Contributions are welcome! Feel free to submit a pull request or open an issue to discuss improvements.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
